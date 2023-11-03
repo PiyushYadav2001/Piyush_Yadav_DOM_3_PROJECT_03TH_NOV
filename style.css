@@ -1,0 +1,75 @@
+/* Add styles for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: 
+    #000000;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    width: 692.27px;
+    height: 144px;
+    top: 101px;
+    left: 518px;
+    padding-left: 90px;
+    margin-left: 200px;
+}
+
+/* Style the butto
+n */
+#fetchData {
+    padding: 10px 20px;
+    background-color:white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:400px;
+    width:492px;
+    height: 58px;
+   
+    
+     
+}
+p{
+    color: white;
+    display: inline;
+    margin: 10px
+}
+#h1{
+    color: white;
+    margin-right:350px;
+}
+#p{
+    margin-left: 350px;
+}
+.p{
+    display: flex;
+}
+.pl{
+    margin-left: 350px;
+}
+.Weather-Data{
+    border: 1px solid white;
+    width: 70%;
+    height: fit-content;
+    margin-bottom: 1%;
+    margin-left: 3%;
+}
+#fetchData:hover {
+    font-size: 30px;
+}
+#map{
+    
+    padding-left: 30%;
+}
+
+.button{
+    display: none;
+}
+iframe{
+    margin-top: 20px;
+}
